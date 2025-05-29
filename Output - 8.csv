@@ -1,0 +1,7 @@
+age_group,total_patients,heart_disease_count,prevalence_percentage
+"Under 30",4,4,100.00
+30-39,53,38,71.70
+40-49,237,157,66.24
+70+,34,20,58.82
+50-59,422,206,48.82
+60-69,275,101,36.73
