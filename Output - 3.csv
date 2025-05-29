@@ -1,0 +1,25 @@
+age,sex,chest_pain_type,resting_bp,cholesterol,fasting_blood_sugar,restecg,max_heart_rate,exang,oldpeak,heart_disease
+62,female,"typical angina",138,294,1,1,106,0,1.9,no
+55,female,"typical angina",180,327,0,2,117,1,3.4,no
+53,female,"non-anginal pain",128,216,0,0,115,0,0,yes
+53,female,"non-anginal pain",128,216,0,0,115,0,0,yes
+62,female,"non-anginal pain",130,263,0,1,97,0,1.2,no
+53,female,"non-anginal pain",128,216,0,0,115,0,0,yes
+65,female,"typical angina",150,225,0,0,114,0,1,no
+65,female,"typical angina",150,225,0,0,114,0,1,no
+55,female,"typical angina",180,327,0,2,117,1,3.4,no
+62,female,"non-anginal pain",130,263,0,1,97,0,1.2,no
+55,female,"typical angina",180,327,0,2,117,1,3.4,no
+62,female,"typical angina",138,294,1,1,106,0,1.9,no
+66,female,asymptomatic,150,226,0,1,114,0,2.6,yes
+66,female,asymptomatic,150,226,0,1,114,0,2.6,yes
+66,female,asymptomatic,150,226,0,1,114,0,2.6,yes
+68,female,"non-anginal pain",120,211,0,0,115,0,1.5,yes
+65,female,"typical angina",150,225,0,0,114,0,1,no
+62,female,"typical angina",138,294,1,1,106,0,1.9,no
+65,female,"typical angina",150,225,0,0,114,0,1,no
+68,female,"non-anginal pain",120,211,0,0,115,0,1.5,yes
+68,female,"non-anginal pain",120,211,0,0,115,0,1.5,yes
+62,female,"non-anginal pain",130,263,0,1,97,0,1.2,no
+62,female,"non-anginal pain",130,263,0,1,97,0,1.2,no
+55,female,"typical angina",180,327,0,2,117,1,3.4,no
